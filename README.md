@@ -1,4 +1,4 @@
-# PixelPlaypens - Support & Privacy
+# Support & Privacy
 
 This repository contains the support documentation and privacy policy for **PixelPlaypens**, a creative video and photo editing app for iOS.
 
@@ -7,7 +7,7 @@ This repository contains the support documentation and privacy policy for **Pixe
 - **Support & Privacy Policy:** [View Here](https://github.com/diddly101/PixelPlaypen-Public/)
 - **App Store:** [Download PixelPlaypens](#) <!-- Add your App Store link when available -->
 
-## 📱 About PixelPlaypens
+## 📱 About
 
 PixelPlaypens is an iOS app that provides creative tools for editing videos and photos:
 
